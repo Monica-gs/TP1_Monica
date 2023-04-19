@@ -1,0 +1,1 @@
+Merge Sort Número de Trocas: 444928 Número de Comparações: 466213 Tempo de Execução: 283
